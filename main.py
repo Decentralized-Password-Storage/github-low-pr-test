@@ -1,7 +1,6 @@
 import os
-
-print("hello world\nHELLO WORLD")
-import numpy 
+print("hello world\nHELLO WORLD") # prints hello world
+import numpy
 import pandas
 
 def convertFile(fn):
